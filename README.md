@@ -2,12 +2,12 @@
 
 Mock interview platform for dreamers.
 
-Front-end : Michele, Rachel, JasonHo, Henry
+Front-end : Michele, Rachel, JasonHo, Henry, Rui 
 
 Android : 
 
 IOS : 
 
-Back-end :Zentch, JasonHo, Quan, Xiaoyan
+Back-end :Zentch, JasonHo, Quan, Xiaoyan, Rui
 
 Data Dev/Eng: Zentch  Wayne
