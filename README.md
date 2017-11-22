@@ -2,7 +2,7 @@
 
 Mock interview platform for dreamers.
 
-Front-end : 
+Front-end : Michele
 
 Back-end :
 
