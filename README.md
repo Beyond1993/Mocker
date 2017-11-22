@@ -1,13 +1,14 @@
 # Mocker
 
-Mock interview platform for dreamers.
+## Mock interview platform for dreamers.
 
-Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui 
+### Work Distribution 
++ Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui
 
-Android : 
++ Android : 
 
-IOS : 
++ IOS : 
 
-Back-end :Zentch, JasonHo, Quan, Xiaoyan, Rui
++ Back-end :Zentch, JasonHo, Quan, Xiaoyan, Rui, KevinZhou
 
-Data Dev/Eng: Zentch  Wayne
++ Data Dev/Eng: Zentch  Wayne, KevinZHou
