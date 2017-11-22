@@ -6,6 +6,4 @@ Front-end : Michele, Rachel
 
 Back-end :Zentch
 
-Data Dev/Eng: Zentch
-
-Data-infra: Wayne
+Data Dev/Eng: Zentch  Wayne
