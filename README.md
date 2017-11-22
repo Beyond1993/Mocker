@@ -4,7 +4,7 @@ Mock interview platform for dreamers.
 
 Front-end : Michele, Rachel, JasonHo, Henry
 
-Android : 
+Android : Jennifer
 
 IOS : 
 
