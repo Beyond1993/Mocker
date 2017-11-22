@@ -2,8 +2,8 @@
 
 Mock interview platform for dreamers.
 
-front-end : 
+Front-end : 
 
-back-end :
+Back-end :
 
-data-infra: Wayne
+Data-infra: Wayne
