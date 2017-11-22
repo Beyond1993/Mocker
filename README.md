@@ -8,6 +8,6 @@ Android :
 
 IOS : 
 
-Back-end :Zentch, JasonHo, Quan
+Back-end :Zentch, JasonHo, Quan, xiaoyan
 
 Data Dev/Eng: Zentch  Wayne
