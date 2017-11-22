@@ -2,7 +2,7 @@
 
 Mock interview platform for dreamers.
 
-Front-end : Michele, Rachel, JasonHo, Henry, Rui 
+Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui 
 
 Android : 
 
