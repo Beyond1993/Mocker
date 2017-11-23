@@ -5,7 +5,7 @@
 ### Work Distribution 
 + Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui, Ran
 
-+ Android : 
++ Android : Jennifer
 
 + IOS : 
 
