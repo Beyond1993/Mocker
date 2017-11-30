@@ -3,7 +3,7 @@
 ## Mock interview platform for dreamers.
 
 ### Work Distribution 
-+ Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui, Ran
++ Web-Front-end : Michele, Rachel, JasonHo, Henry, Rui, Ran，Qi
 
 + Android : Jennifer
 
